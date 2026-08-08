@@ -1,0 +1,5 @@
+{
+  "url": "http://localhost:8888/index.php?module=Leads&action=index",
+  "username": "admin",
+  "password": "admin"
+}
